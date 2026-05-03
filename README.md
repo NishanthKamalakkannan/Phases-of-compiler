@@ -165,12 +165,6 @@ Developed as part of a Compiler Design college project to demonstrate the end-to
 *   Teaching aids in CS / IT undergraduate programs.
 *   Self-study and concept reinforcement.
 
-## 📄 License
-This project is licensed under the MIT License — you are free to use, modify, and distribute it with attribution.
-
-## 🙋 Author
-Built by **Nishanth Kamalakkannan** — CS undergraduate passionate about systems programming and compiler theory.
-
 <div align="center">
 <br />
 ⭐ Star this repo if you found it useful — it helps others discover it too.
